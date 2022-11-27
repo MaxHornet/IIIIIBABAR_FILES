@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+   <ShortName>Files</ShortName>
+   <Description>Search for a file.</Description>
+   <Url type="text/html" method="get" template="https://decrypt.rogg.ml/?{searchTerms}"/>
+</OpenSearchDescription>
